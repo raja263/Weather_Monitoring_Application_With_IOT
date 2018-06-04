@@ -5,7 +5,7 @@ The proposed system is a simpler approach for monitoring the weather conditions 
 The data retrieved from the implemented system can be accessible at any remote location with online cloud services like ThingSpeak which acts as an intermediate to access the information. The information is viewed on a mobile application developed with Java on Android Platform. Sensors in this system collect information in a constant interval of time and upload the data to the cloud. The application periodically updates provide the end user with live temperature and humidity levels in a simpler and clean format with graphical representation of the values over a period of time.
 </h6>
 
-<img src="flowchart.PNG" width="300"><img src="system framework.PNG" width="300"><img src="screenshot.jpg" width="200">
+<img src="framework.PNG" width="300"><img src="system framework.PNG" width="300"><img src="screenshot.jpg" width="200">
 <ol>
 <li><h3>Requirements</h3></li>
 You need to install:
